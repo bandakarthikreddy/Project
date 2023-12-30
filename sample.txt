@@ -1,1 +1,2 @@
 This is my first line in Master Branch
+This is my second line in Feature Branch
